@@ -1,14 +1,14 @@
 # **PRIME NUMBER**
 
-# Information
+## INFORMATION
 
 * **Program to find prime numbers with recursive method.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The variables **number**, **prime**, **i** and **value** are defined with int.
 
@@ -16,9 +16,7 @@
 
 * It checks whether the entered number is prime or not with the if - else if decision mechanism.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -85,13 +83,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/PrimeNumber.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
